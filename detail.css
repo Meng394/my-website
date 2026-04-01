@@ -4,7 +4,7 @@
 
 .back-link {
     display: inline-block;
-    color: #4caf50;
+    color: #D2691E;
     text-decoration: none;
     margin-bottom: 2rem;
     font-weight: bold;
@@ -12,7 +12,7 @@
 }
 
 .back-link:hover {
-    color: #2e7d32;
+    color: #8B4513;
 }
 
 #product-detail {
@@ -27,7 +27,7 @@
     align-items: center;
     margin-bottom: 2rem;
     padding-bottom: 1.5rem;
-    border-bottom: 2px solid #e8f5e9;
+    border-bottom: 2px solid #F5DEB3;
 }
 
 .product-icon {
@@ -37,7 +37,7 @@
 
 .product-title {
     font-size: 2.5rem;
-    color: #2e7d32;
+    color: #8B4513;
 }
 
 .product-description {
@@ -53,7 +53,7 @@
 
 .product-features h3 {
     font-size: 1.5rem;
-    color: #2e7d32;
+    color: #8B4513;
     margin-bottom: 1rem;
 }
 
@@ -73,7 +73,7 @@
     content: "✓";
     position: absolute;
     left: 0;
-    color: #4caf50;
+    color: #D2691E;
     font-weight: bold;
 }
 
@@ -84,7 +84,7 @@
 
 .cta-button {
     display: inline-block;
-    background: linear-gradient(135deg, #4caf50 0%, #43a047 100%);
+    background: linear-gradient(135deg, #D2691E 0%, #A0522D 100%);
     color: white;
     padding: 1rem 2.5rem;
     border-radius: 30px;
@@ -96,7 +96,7 @@
 
 .cta-button:hover {
     transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(76, 175, 80, 0.4);
+    box-shadow: 0 4px 8px rgba(210, 105, 30, 0.4);
 }
 
 @media (max-width: 768px) {

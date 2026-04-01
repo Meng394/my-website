@@ -18,7 +18,7 @@ body {
 }
 
 header {
-    background: linear-gradient(135deg, #2e7d32 0%, #43a047 100%);
+    background: linear-gradient(135deg, #8B4513 0%, #A0522D 100%);
     color: white;
     padding: 1rem 0;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
@@ -51,7 +51,7 @@ nav a.active {
 }
 
 .hero {
-    background: linear-gradient(135deg, #4caf50 0%, #8bc34a 100%);
+    background: linear-gradient(135deg, #D2691E 0%, #DEB887 100%);
     color: white;
     padding: 4rem 0;
     text-align: center;
@@ -75,7 +75,7 @@ nav a.active {
     text-align: center;
     margin-bottom: 3rem;
     font-size: 2.5rem;
-    color: #2e7d32;
+    color: #8B4513;
 }
 
 .cards-grid {
@@ -100,7 +100,7 @@ nav a.active {
 
 .card-image {
     height: 200px;
-    background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
+    background: linear-gradient(135deg, #F5DEB3 0%, #DEB887 100%);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -117,7 +117,7 @@ nav a.active {
 .card-content h3 {
     font-size: 1.5rem;
     margin-bottom: 0.8rem;
-    color: #2e7d32;
+    color: #8B4513;
 }
 
 .card-content p {
@@ -127,14 +127,14 @@ nav a.active {
 }
 
 .card-link {
-    color: #4caf50;
+    color: #D2691E;
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s;
 }
 
 .card-link:hover {
-    color: #2e7d32;
+    color: #8B4513;
 }
 
 footer {
